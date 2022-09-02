@@ -20,6 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. testing 123
 
 **Bold** and _Italic_ and `Code` text
 
